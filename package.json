@@ -1,13 +1,13 @@
 {
-  "name": "sar13-cli-todo-list",
-  "version": "2.0.2",
+  "name": "sarmaj13-cli-todo-list",
+  "version": "3.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
   },
-  "bin": "index.js",
+  "bin": "TodoApp.js",
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
