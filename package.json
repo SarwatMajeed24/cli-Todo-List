@@ -1,6 +1,6 @@
 {
-  "name": "sar13maj-cli-todo-list",
-  "version": "1.0.0",
+  "name": "sar13-cli-todo-list",
+  "version": "2.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
